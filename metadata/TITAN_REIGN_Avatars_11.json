@@ -5,19 +5,19 @@
       "trait_type": "SURGE BACKGROUND"
     },
     {
-      "value": "B B1 100",
+      "value": "A B2 1/2",
       "trait_type": "SURGE CHEST"
     },
     {
-      "value": "B B2 3/4",
+      "value": "A B2 100",
       "trait_type": "SURGE HEAD"
     },
     {
-      "value": "A B2 1/2",
+      "value": "A B1 100",
       "trait_type": "SURGE LEFT ARM"
     },
     {
-      "value": "A B1 100",
+      "value": "B B2 3/4",
       "trait_type": "SURGE LEFT LEG"
     },
     {
@@ -25,11 +25,11 @@
       "trait_type": "SURGE RIGHT ARM"
     },
     {
-      "value": "A B1 100",
+      "value": "A B2 0",
       "trait_type": "SURGE RIGHT LEG"
     }
   ],
   "description": "The TITAN realm now clashes in eternal elemental conflict. Join the ranks with your TITAN to battle, craft and quest your way to victory. https://titanreign.games",
-  "image": "https://tempeststudios.games/titanavatars/8.png",
-  "name": "TITAN REIGN #8"
+  "image": "https://tempeststudios.games/titanavatars/11.png",
+  "name": "TITAN REIGN #11"
 }

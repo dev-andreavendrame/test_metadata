@@ -5,31 +5,31 @@
       "trait_type": "EMBER BACKGROUND"
     },
     {
-      "value": "A R2 1/2",
+      "value": "A R2 1/4",
       "trait_type": "EMBER CHEST"
     },
     {
-      "value": "C R2 100",
+      "value": "B R1 1/2",
       "trait_type": "EMBER HEAD"
     },
     {
-      "value": "C R1 100",
+      "value": "A R1 100",
       "trait_type": "EMBER LEFT ARM"
     },
     {
-      "value": "A R1 3/4",
+      "value": "B R2 1/2",
       "trait_type": "EMBER LEFT LEG"
     },
     {
-      "value": "C R2 100",
+      "value": "A R1 1/4",
       "trait_type": "EMBER RIGHT ARM"
     },
     {
-      "value": "C R2 100",
+      "value": "A R1 3/4",
       "trait_type": "EMBER RIGHT LEG"
     }
   ],
   "description": "The TITAN realm now clashes in eternal elemental conflict. Join the ranks with your TITAN to battle, craft and quest your way to victory. https://titanreign.games",
-  "image": "https://tempeststudios.games/titanavatars/4.png",
-  "name": "TITAN REIGN #4"
+  "image": "https://tempeststudios.games/titanavatars/9.png",
+  "name": "TITAN REIGN #9"
 }
